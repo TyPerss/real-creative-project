@@ -122,7 +122,7 @@ export default {
 }
 .seasons {
   display: flex;
-  gap: 10px;
+  gap: 6px;
 }
 
 .filterButtons {
