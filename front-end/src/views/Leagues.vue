@@ -90,8 +90,9 @@ export default {
   margin: 0 0 1.5em;
   padding: 5px;
   display: inline-block;
-  width: 100%;
+  width: 95%;
   border: 3px solid orange;
+  word-break:break-all;
 }
 
 /* Masonry on large screens */
