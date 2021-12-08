@@ -88,8 +88,10 @@ export default {
 
 .league {
   margin: 0 0 1.5em;
+  padding: 5px;
   display: inline-block;
   width: 100%;
+  border: 3px solid orange;
 }
 
 /* Masonry on large screens */
@@ -125,5 +127,10 @@ export default {
 .filterButtons {
   display: flex;
   gap: 10px;
+  margin-bottom: 10px;
+}
+.leagues {
+  margin-left: 5px;
+  margin-right: 5px;
 }
 </style>
