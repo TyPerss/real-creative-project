@@ -92,7 +92,7 @@ export default {
   display: inline-block;
   width: 95%;
   border: 3px solid orange;
-  word-break:break-all;
+  word-break:break-word;
 }
 
 /* Masonry on large screens */
